@@ -1,8 +1,8 @@
 import React from 'react';
 import Navbar from 'react-bootstrap/Navbar';
-import Container from 'react-bootstrap';
-import Nav from 'react-bootstrap';
-import NavDropdown from 'react-bootstrap';
+import Nav from 'react-bootstrap/Nav';
+import NavDropdown from 'react-bootstrap/NavDropdown';
+import Container from 'react-bootstrap/Container';
 function Navigation() {
 
     return(
